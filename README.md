@@ -1,1 +1,1 @@
-# STC_DS_Tasks
+# Numpy, Matplotlib, Scikit, Pandas Exercises
